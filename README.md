@@ -15,12 +15,12 @@ Aplicativo de previsões climáticas dá posição atual do usuário desenvolvid
   ```
 # Configuração do dotenv.
 
- + #### `cp .env.example`<br/>
+ + #### `cp .env.example .env`<br/>
   ```
   No Mac e Linux.
   ```
   ou
-  + #### `copy .env.example`<br/>
+  + #### `copy .env.example .env`<br/>
   ```
   No Windows.
   ```
