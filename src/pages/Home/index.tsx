@@ -91,8 +91,7 @@ export function Home() {
       setWind(speedWind);
       setHumidity(humidityToday);
     })
-    .catch((err) => {
-      console.log(err);
+    .catch(() => {
       Alert.alert('Ops', 'Houve um erro, tente novamente mais tarde.');
     });
   };
