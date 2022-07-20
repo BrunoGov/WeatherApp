@@ -1,5 +1,5 @@
 # WeatherApp
-Aplicativo de previsões climáticas dá posição atual do usuário desenvolvido com React Native e Expo.
+Aplicativo de previsões climáticas referente a posição atual do usuário, desenvolvido com React Native e Expo.
 
 # Instalação
 
