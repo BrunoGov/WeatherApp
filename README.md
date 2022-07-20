@@ -33,17 +33,17 @@ Aplicativo de previsões climáticas dá posição atual do usuário desenvolvid
   
   # Iniciar App
 
- + #### `expo start`<br/>
+ + #### `yarn start`<br/>
   ```
   Para iniciar o metro bundler.
   ```
   
-  + #### `expo ios`<br/>
+  + #### `yarn ios`<br/>
   ```
   Para iniciar o app no simulador do IOS.
   ```
   
-  + #### `expo android`<br/>
+  + #### `yarn android`<br/>
   ```
   Para iniciar o app no simulador do Android.
   ```
