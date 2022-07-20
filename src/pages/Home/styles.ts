@@ -6,7 +6,7 @@ interface PeriodProps {
   period?: TEXT_PERIOD;
 }
 
-export const Container = styled.View<PeriodProps>`
+export const Container = styled.ScrollView<PeriodProps>`
   flex: 1;
 
   ${(props) =>
